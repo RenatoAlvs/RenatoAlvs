@@ -1,11 +1,12 @@
 ## Hi there 👋
-
+###### Sobre mim
+Tenho 21 anos e estou cursando ciencia de dados na EBAC. Também estou cursando inglês e pretendo também aprender outros idiomas posteriormente.
 ## habilidades
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenatoAlvs&show_icons=true&theme=dark)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## Projeto
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RenatoAlvs&repo=github-readme-stats)](https://github.com/RenatoAlvs/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RenatoAlvs&repo=Analise_de_dados&theme=dark)](https://github.com/RenatoAlvs/github-readme-stats)
 
 
 ## Contatos
